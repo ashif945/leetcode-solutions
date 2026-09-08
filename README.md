@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashif945/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/ashif945/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
