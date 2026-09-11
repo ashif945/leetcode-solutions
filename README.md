@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0724-find-pivot-index](https://github.com/ashif945/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashif945/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/ashif945/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Binary Search
 |  |
 | ------- |
