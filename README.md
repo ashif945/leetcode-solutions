@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/ashif945/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/ashif945/leetcode-solutions/tree/master/1323-maximum-69-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ashif945/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
