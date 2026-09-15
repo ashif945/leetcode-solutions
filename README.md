@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0724-find-pivot-index](https://github.com/ashif945/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ashif945/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashif945/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ashif945/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ashif945/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/ashif945/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ashif945/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
