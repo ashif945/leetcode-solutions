@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ashif945/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashif945/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ashif945/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0724-find-pivot-index](https://github.com/ashif945/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ashif945/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashif945/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -81,10 +83,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ashif945/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Counting
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashif945/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
