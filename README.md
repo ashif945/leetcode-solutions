@@ -100,10 +100,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ashif945/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ashif945/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
