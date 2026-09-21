@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/ashif945/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashif945/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ashif945/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ashif945/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashif945/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ashif945/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashif945/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashif945/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ashif945/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashif945/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashif945/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashif945/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashif945/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashif945/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
