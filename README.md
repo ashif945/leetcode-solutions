@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ashif945/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ashif945/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/ashif945/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1323-maximum-69-number](https://github.com/ashif945/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashif945/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/ashif945/leetcode-solutions/tree/master/3870-count-commas-in-range) |
