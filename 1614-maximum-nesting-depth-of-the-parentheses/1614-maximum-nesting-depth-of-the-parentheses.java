@@ -5,10 +5,12 @@ class Solution {
         for(int i=0; i<s.length(); i++){
             if(s.charAt(i) == '('){
                 count++;
+                maxDepth = Math.max(count,maxDepth);
             } else if(s.charAt(i) == ')'){
                 count--;
+                maxDepth = Math.max(count,maxDepth);
             }
-            maxDepth = Math.max(count,maxDepth);
+            
         }
         return maxDepth;
     }
