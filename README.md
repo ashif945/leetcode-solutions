@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ashif945/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashif945/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ashif945/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [1207-unique-number-of-occurrences](https://github.com/ashif945/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashif945/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ashif945/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashif945/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/ashif945/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashif945/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1572-matrix-diagonal-sum](https://github.com/ashif945/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
