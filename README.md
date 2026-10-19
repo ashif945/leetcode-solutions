@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ashif945/leetcode-solutions/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ashif945/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1323-maximum-69-number](https://github.com/ashif945/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [2235-add-two-integers](https://github.com/ashif945/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashif945/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ashif945/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/ashif945/leetcode-solutions/tree/master/3870-count-commas-in-range) |
