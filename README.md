@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ashif945/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/ashif945/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashif945/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashif945/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ashif945/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/ashif945/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ashif945/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ashif945/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ashif945/leetcode-solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/ashif945/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1323-maximum-69-number](https://github.com/ashif945/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/ashif945/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ashif945/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashif945/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ashif945/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ashif945/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ashif945/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ashif945/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ashif945/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashif945/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ashif945/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/ashif945/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashif945/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ashif945/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashif945/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ashif945/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashif945/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ashif945/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashif945/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashif945/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
