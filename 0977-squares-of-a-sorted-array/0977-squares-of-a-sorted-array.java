@@ -1,8 +1,8 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
         for(int i=0; i<nums.length; i++){
-            double sq = Math.pow(nums[i],2);
-            nums[i] = (int)sq;
+            nums[i] = nums[i] * nums[i];
+    
         }
         Arrays.sort(nums);
         return nums;
