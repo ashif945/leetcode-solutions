@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ashif945/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ashif945/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashif945/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ashif945/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashif945/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashif945/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ashif945/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashif945/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashif945/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashif945/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashif945/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ashif945/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashif945/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashif945/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
