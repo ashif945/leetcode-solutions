@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ashif945/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/ashif945/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ashif945/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ashif945/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1436-destination-city](https://github.com/ashif945/leetcode-solutions/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashif945/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/ashif945/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ashif945/leetcode-solutions/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ashif945/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
