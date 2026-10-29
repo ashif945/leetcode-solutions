@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ashif945/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ashif945/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashif945/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/ashif945/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashif945/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ashif945/leetcode-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ashif945/leetcode-solutions/tree/master/0204-count-primes) |
@@ -323,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ashif945/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ashif945/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
