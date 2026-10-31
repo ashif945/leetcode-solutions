@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ashif945/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/ashif945/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ashif945/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ashif945/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashif945/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashif945/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashif945/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/ashif945/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ashif945/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ashif945/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ashif945/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ashif945/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/ashif945/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ashif945/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
