@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashif945/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashif945/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ashif945/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ashif945/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ashif945/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/ashif945/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ashif945/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashif945/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ashif945/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/ashif945/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ashif945/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ashif945/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashif945/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashif945/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/ashif945/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/ashif945/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/ashif945/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ashif945/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashif945/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashif945/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ashif945/leetcode-solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/ashif945/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashif945/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ashif945/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ashif945/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -352,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashif945/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ashif945/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ashif945/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
