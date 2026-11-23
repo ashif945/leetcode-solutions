@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ashif945/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashif945/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/ashif945/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashif945/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ashif945/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ashif945/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/ashif945/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ashif945/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashif945/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashif945/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashif945/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ashif945/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashif945/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1436-destination-city](https://github.com/ashif945/leetcode-solutions/tree/master/1436-destination-city) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ashif945/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ashif945/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashif945/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashif945/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ashif945/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ashif945/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ashif945/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -401,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashif945/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashif945/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ashif945/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
